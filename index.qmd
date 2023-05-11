@@ -1,12 +1,12 @@
 ---
-title: "Tutorial de atualização da resenha de Serviços"
+title: "Tutorial de atualização do Excel da resenha de Serviços"
 format: 
   html: 
     css: styles.css
 lang: pt-br
 ---
 
-## 1 Procedimentos iniciais {#sec-1}
+## Procedimentos iniciais {#sec-1}
 
 -   Na pasta da resenha de serviços, crie uma subpasta para o mês de referência da resenha que será eleborada (@fig-1).
 
@@ -16,7 +16,7 @@ lang: pt-br
 
 ![Copiando os arquivos para a pasta do mês atual](img/procedimento_incial_2.gif){#fig-2 fig-align="center" width="589"}
 
--   Consulte a planilha de numeração das resenhas disponível na descrição do grupo de WhatsApp da CEE. Selecione o primeiro número que não está marcado em vermelho. Nas colunas ao lados da tabela de numeração, indique o número que você selecionou e o nome da resenha (@fig-3 e @fig-4).
+-   Consulte a planilha de numeração das resenhas disponível na descrição do grupo de WhatsApp da CEE. Selecione o primeiro número que não está marcado em vermelho. Nas colunas ao lado da tabela de numeração, indique o número que você selecionou e o nome da resenha (@fig-3 e @fig-4).
 
 ![Consultando a numeração das resenhas](img/procedimento_incial_3.gif){#fig-3 fig-align="center" width="292"}
 
@@ -30,7 +30,7 @@ lang: pt-br
 
 ![Reexibindo abas ocultas](images/procedimento_incial_6.gif){#fig-6}
 
-## 2 Tabela [5906](https://sidra.ibge.gov.br/Tabela/5906) {#sec-2}
+## Tabela [5906](https://sidra.ibge.gov.br/Tabela/5906) {#sec-2}
 
 -   No site do [SIDRA](https://sidra.ibge.gov.br), utilize a lupa para encontrar a tabela [5906](https://sidra.ibge.gov.br/Tabela/5906) (@fig-7).
 
@@ -64,7 +64,7 @@ lang: pt-br
 
 ![Atulizando dados da tabela 5906](images/atualizado_tabela_5906.gif){#fig-14 fig-align="center"}
 
-## 3 Tabela [8688](https://sidra.ibge.gov.br/Tabela/8688)
+## Tabela [8688](https://sidra.ibge.gov.br/Tabela/8688)
 
 -   Utilize a lupa para acessar tabela [8688](https://sidra.ibge.gov.br/Tabela/8688) (@fig-15).
 
@@ -102,7 +102,7 @@ lang: pt-br
 
 ![Atualizando os dados da tabela 8688](images/atualizado_tabela_8688.gif){#fig-23}
 
-## 4 Tabela [8693](#0) {#sec-4}
+## Tabela [8693](#0) {#sec-4}
 
 -   Utilize a lupa para acessar a tabela [8693](https://sidra.ibge.gov.br/Tabela/8693) (@fig-24):
 
@@ -140,7 +140,7 @@ lang: pt-br
 
 ![Atualizando os dados da tabela 8693](images/atualizado_tabela_8693-01.gif){#fig-32}
 
-## 5 Tabela [8694](https://sidra.ibge.gov.br/Tabela/8694) {#sec-5}
+## Tabela [8694](https://sidra.ibge.gov.br/Tabela/8694) {#sec-5}
 
 -   Utilize a lupa para acessar a tabela [8694](https://sidra.ibge.gov.br/Tabela/8694) (@fig-33):
 
@@ -172,9 +172,7 @@ lang: pt-br
 
 -   Copie os dados baixados e cole na aba "tabela8694" do arquivo Excel da resenha (@fig-40).
 
-![Atualizando os dados da tabela 8694](images/atualizanado_tabela8694.gif){#fig-40}
-
-## 6 Procedimentos finais {#sec-6}
+## Tabelas e gráficos
 
 -   Após a atualização dos dados , copie da "tabela5906" os dados necessários para atualização do card e oculte as abas "tabela5906", "tabela8688", "tabela8693" e "tabela8694".
 

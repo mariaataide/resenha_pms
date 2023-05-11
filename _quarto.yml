@@ -8,6 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Excel
+      - href: card.qmd
+        text: Card
+      - href: word.qmd
+        text: Word 
+        
+    background: "#647cba"
+    logo: "img/ijsn.jpg"
 
 format:
   html:

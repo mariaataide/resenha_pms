@@ -6,6 +6,10 @@ li {
   text-align: justify;
 }
 
+p {
+  text-align: justify;
+}
+
 .figure-caption {
 font-size: 12px;
 }
